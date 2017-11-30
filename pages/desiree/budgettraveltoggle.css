@@ -1,0 +1,136 @@
+
+
+
+/** BUDGET TRAVEL TOGGLE----------------------------------- **/
+
+
+.container {
+    width:90%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+        
+.container div {
+    width:100%;
+}
+    
+.togglebigtext{
+    font-size: 3em;
+    font-weight: 100;
+    vertical-align: sub;
+        }       
+        
+        
+.margintop100{
+    margin-top: 60px;
+        }
+        
+.container .title1 {
+    cursor: pointer;
+    font-weight: bold;
+    text-align: left;
+}
+.container .content1 {
+    display: none;
+
+    text-align: justify;
+}
+        
+        
+.container .title2 {
+
+    cursor: pointer;
+    font-weight: bold;
+       text-align: left;
+}
+.container .content2 {
+    display: none;
+
+    text-align: justify;
+}
+        
+        
+.container .title3 {
+
+    cursor: pointer;
+    font-weight: bold;
+       text-align: left;
+}
+.container .content3 {
+    display: none;
+    text-align: justify;
+}
+        
+        
+.container .title4 {
+
+    cursor: pointer;
+    font-weight: bold;
+       text-align: left;
+}
+.container .content4 {
+    display: none;
+    text-align: justify;
+}
+        
+        
+.container .title5 {
+    cursor: pointer;
+    font-weight: bold;
+       text-align: left;
+}
+.container .content5 {
+    display: none;
+    text-align: justify;
+}
+        
+        
+.container .title6 {
+    cursor: pointer;
+    font-weight: bold;
+       text-align: left;
+    
+}
+        
+.container .content6 {
+    display: none;
+    text-align: justify;
+}
+        
+
+.container .title7 {
+    cursor: pointer;
+    font-weight: bold;
+       text-align: left;
+    
+}
+        
+.container .content7 {
+    display: none;
+    text-align: justify;
+}
+        
+.container .title8 {
+    cursor: pointer;
+    font-weight: bold;
+       text-align: left;
+}
+        
+.container .content8 {
+    display: none;
+    text-align: justify;
+}
+        
+.container .title9 {
+    cursor: pointer;
+    font-weight: bold;
+       text-align: left;
+    
+}
+        
+.container .content9 {
+    display: none;
+    text-align: justify;
+}
+
+    
